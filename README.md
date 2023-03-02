@@ -1,8 +1,7 @@
 # Krishna
 <h1 align="center">Hi 👋, I'm Krishna Pakkurthi</h1>
 <h3 align="center">A passionate frontend developer and learner from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/121246162/222500951-dc11c64d-a5ca-4472-bb5a-920750cbf577.png)
-">
+<img align="right" alt="coding" width="400" src="gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapakkurthi&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapakkurthi" /> </p>
 
